@@ -11,5 +11,3 @@ __Repos__
 * [mkdong](http://cfralick.github.io/mkdong)
 * [barebones-ghost](http://cfralick.github.io/barebones-ghost)
 * [bugsnag-laravel](http://cfralick.github.io/bugsnag-laravel)
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cfralick/cfralick.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
